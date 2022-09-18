@@ -57,7 +57,7 @@ export default function Dictionary(props) {
             />
           </form>
           <div className="hint">
-            other suggested words: sunrise, calm, centered, zen
+            other suggested words: dusk, nightfall, sundown, twilight
           </div>
         </section>
         <Results results={results} />
